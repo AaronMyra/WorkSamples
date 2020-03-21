@@ -1,0 +1,22 @@
+Battleship Program Pseudo Code
+
+Student Name: Aaron Myra
+Date: Nov 19/ 2018
+
+1. Display intro to program
+2. Open and read map text file
+3. Display the number of missles the user has
+4. Display the empty grid map
+5. Prompt the user to input a set of coordinates (Ex. A1)
+6. Determine the location of user coordinates in relation to map text file and grid map
+7. If the location in the map text file is a "1" display corrdinate as a "HIT" and an "X" to the corrisponding location in the grid map
+8. If the location in the map text file is a "0" display corrdinate as a "MISS" and an "O" to the corrisponding location in the grid map
+9. For each turn incriment the number missiles by - 1
+10. Repeat for number of turns
+11. Include error checking for file location and user errors
+
+Extra
+1. Include a Hard, Normal and Easy mode with diffrent missiles counts
+2. Make new amp text files and include a random function that that generates a random number and user the corrisponding map file.
+3. Include the option to play again.
+4. Include the abliity to determine the diffrent types of ships and display which ship was sunk.

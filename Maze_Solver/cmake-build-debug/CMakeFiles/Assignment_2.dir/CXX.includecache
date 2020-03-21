@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/Maze.cpp
+Maze.h
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/Maze.h
+Stack.h
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/Stack.h
+fstream
+-
+iostream
+-
+string
+-
+
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/Maze.h
+string
+-
+
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/Node.h
+
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/Stack.h
+Node.h
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/Node.h
+

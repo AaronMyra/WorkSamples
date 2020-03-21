@@ -1,0 +1,3 @@
+/home/student/CLionProjects/PROG2007-C/Assignment_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student/CLionProjects/PROG2007-C/Assignment_4/cmake-build-debug/CMakeFiles/Assignment_4.dir
+/home/student/CLionProjects/PROG2007-C/Assignment_4/cmake-build-debug/CMakeFiles/edit_cache.dir

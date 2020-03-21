@@ -1,0 +1,5 @@
+12:56:59 PM: Client connected to server on 127.0.0.1:13000
+12:57:03 PM: Hello
+12:57:10 PM: Whats Up
+12:57:15 PM: Not much u?
+12:57:23 PM: Client disconnected from server

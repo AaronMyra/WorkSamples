@@ -1,0 +1,3 @@
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/cmake-build-debug/CMakeFiles/Assignment_2.dir
+/home/student2007/CLionProjects/Data-Structures/Assignments/Assignment 2/cmake-build-debug/CMakeFiles/edit_cache.dir

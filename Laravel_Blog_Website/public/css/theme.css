@@ -1,0 +1,10 @@
+.py-4{
+    text-align: center;
+}
+
+#theme_table{
+    margin: auto;
+    margin-top: 5%;
+    width: 75%;
+    border: 1px solid black;
+}

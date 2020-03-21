@@ -1,0 +1,22 @@
+#title{
+    margin: auto;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.theme_table_header{
+    font-size: 1.3em;
+}
+
+.theme_table_head{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-bottom: 1px solid black;
+}
+
+#theme_table, #usersTable{
+    margin: auto;
+    margin-top: 5%;
+    width: 75%;
+    border: 1px solid black;
+}

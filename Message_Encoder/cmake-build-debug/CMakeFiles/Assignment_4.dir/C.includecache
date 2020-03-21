@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/CLionProjects/PROG2007-C/Assignment_4/clearBuffer.h
+
+/home/student/CLionProjects/PROG2007-C/Assignment_4/main.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+setjmp.h
+-
+stdlib.h
+-
+clearBuffer.h
+/home/student/CLionProjects/PROG2007-C/Assignment_4/clearBuffer.h
+

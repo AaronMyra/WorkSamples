@@ -1,0 +1,11 @@
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\obj\Debug\ChatLib.csprojAssemblyReference.cache
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\obj\Debug\ChatLib.csproj.CoreCompileInputs.cache
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\bin\Debug\ChatLib.dll
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\bin\Debug\ChatLib.pdb
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\bin\Debug\log4net.dll
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\bin\Debug\Logging.dll
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\bin\Debug\Logging.pdb
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\bin\Debug\log4net.xml
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\obj\Debug\ChatLib.csproj.CopyComplete
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\obj\Debug\ChatLib.dll
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 4\ChatLib\obj\Debug\ChatLib.pdb

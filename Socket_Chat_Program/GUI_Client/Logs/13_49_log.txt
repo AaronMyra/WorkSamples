@@ -1,0 +1,6 @@
+1:50:04 PM: Client connected to server on 127.0.0.1:13000
+1:50:13 PM: Hello Server
+1:50:23 PM: I think the new line worked
+1:50:33 PM:  think it did also
+1:50:43 PM: Sweet
+1:50:45 PM: Client disconnected from server

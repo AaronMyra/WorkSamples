@@ -1,0 +1,6 @@
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 2\ChatLib\bin\Debug\ChatLib.dll
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 2\ChatLib\bin\Debug\ChatLib.pdb
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 2\ChatLib\obj\Debug\ChatLib.csprojAssemblyReference.cache
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 2\ChatLib\obj\Debug\ChatLib.csproj.CoreCompileInputs.cache
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 2\ChatLib\obj\Debug\ChatLib.dll
+L:\Second Year\Fall Semester\PROG 2200 - OOP\SorceCode\Assignments\Assignment 2\ChatLib\obj\Debug\ChatLib.pdb

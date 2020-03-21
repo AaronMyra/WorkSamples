@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Second Year/PROG 2100 - C++/Source Code/Assignments/Assignment 4/IOFunctions.cpp
+IOFunctions.h
+E:/Second Year/PROG 2100 - C++/Source Code/Assignments/Assignment 4/IOFunctions.h
+string
+-
+fstream
+-
+iostream
+-
+exception
+-
+
+E:/Second Year/PROG 2100 - C++/Source Code/Assignments/Assignment 4/IOFunctions.h
+string
+-
+

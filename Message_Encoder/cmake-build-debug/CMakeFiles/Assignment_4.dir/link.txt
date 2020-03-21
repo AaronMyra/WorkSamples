@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Assignment_4.dir/main.c.o CMakeFiles/Assignment_4.dir/clearBuffer.c.o  -o Assignment_4 

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e416de36-5589-4824-82f8-5505d7c72541" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ca/nscc/Characters/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/nscc/Characters/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/nscc/GUI/GUI_Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/nscc/GUI/GUI_Frame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_4_Poly_Penguins - Copy/src/ca/nscc/Animals/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_4_Poly_Penguins - Copy/src/ca/nscc/Animals/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_4_Poly_Penguins - Copy/src/ca/nscc/Animals/Walrus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_4_Poly_Penguins - Copy/src/ca/nscc/Animals/Walrus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_4_Poly_Penguins - Copy/src/ca/nscc/Animals/seaLion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_4_Poly_Penguins - Copy/src/ca/nscc/Animals/seaLion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_4_Poly_Penguins - Copy/src/ca/nscc/GUI/GUI_Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_4_Poly_Penguins - Copy/src/ca/nscc/GUI/GUI_Frame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen_Saver_Final/src/ca/nscc/GUI/DrawingPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screen_Saver_Final/src/ca/nscc/GUI/DrawingPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demos/Graphics_Demo/src/ca/nscc/mario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demos/Graphics_Demo/src/ca/nscc/mario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sandbox/src/ca/nscc/Character/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sandbox/src/ca/nscc/Character/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sandbox/src/ca/nscc/GUI/GUI_Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sandbox/src/ca/nscc/GUI/GUI_Frame.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/nscc/GUI/GUI_Frame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="163" column="47" selection-start-line="163" selection-start-column="47" selection-end-line="163" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ca/nscc/Characters/Warrior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/nscc/Characters/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>random</find>
+      <find>mon</find>
+      <find>ra</find>
+      <find>re</find>
+      <find>charNam</find>
+      <find>num</find>
+      <find>System</find>
+      <find>battleO</find>
+      <find>battleD</find>
+      <find>Weapon</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ca/nscc/Character_Page.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Battle_Output.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Character.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Player.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Monster.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Mage.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Warrior.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Barbarian.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Battle_Page.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/GUI_Frame.java" />
+        <option value="$PROJECT_DIR$/src/GUI/GUI_Frame.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/GUI/titleScreen.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/GUI/Battle_Page.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Characters/Monster.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Characters/Barbarian.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/GUI/Sword.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Weapon/Weapon.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Weapon/Hammer.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Weapon/Sword.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Characters/Player.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/GUI/Character_Page.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Characters/Mage.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Main.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Characters/Character.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/GUI/GUI_Frame.java" />
+        <option value="$PROJECT_DIR$/src/ca/nscc/Characters/Warrior.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment_3_RPG_Final - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_3_RPG_Final - Copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_3_RPG_Final - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_3_RPG_Final - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_3_RPG_Final - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_3_RPG_Final - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nscc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_3_RPG_Final - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_3_RPG_Final - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nscc" type="462c0819:PsiDirectoryNode" />
+              <item name="Characters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_3_RPG_Final - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_3_RPG_Final - Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nscc" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554334973411" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Sandbox" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.nscc.Main" />
+      <module name="Assignment_3_RPG_Final" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e416de36-5589-4824-82f8-5505d7c72541" name="Default" comment="" />
+      <created>1552064384666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552064384666</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Ready for marking">
+      <created>1552340879081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552340879081</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes">
+      <created>1552340897834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552340897834</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ready For Marking">
+      <created>1552570037798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552570037798</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ready For Marking">
+      <created>1552570074400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552570074400</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes">
+      <created>1552570093056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552570093056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298292" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4301192" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13059701" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298292" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4301192" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ready for marking" />
+    <MESSAGE value="Ready For Marking" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>6</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>399</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>393</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>371</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>349</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url />
+          <line>91</line>
+          <properties class="ca.nscc.GUI.GUI_Frame">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url />
+          <line>405</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url />
+          <line>273</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url />
+          <line>285</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url />
+          <line>305</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/JToggleButton.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Battle_Output.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/swing/ImageIcon.java" />
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Images/Monster/monster3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Images/Monster/monster2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Images/Monster/monster0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Images/Monster/monster1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Characters/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Weapon/Hammer.java" />
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Characters/Mage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="79" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/GUI/Battle_Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/GUI/titleScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/GUI/Character_Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Weapon/Sword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Characters/Barbarian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="72" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Weapon/Weapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Characters/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/GUI/GUI_Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="163" column="47" selection-start-line="163" selection-start-column="47" selection-end-line="163" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Characters/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/nscc/Characters/Warrior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
